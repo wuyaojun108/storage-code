@@ -478,11 +478,7 @@ public class RBTree<K extends Comparable<K>, V> {
     }
 
     /**
-     *    打印树的图形结构。使用左斜杠和右斜杆来表示树中父节点和子节点之间的关系，使用一个二维数组来存储树中的所有元素，
-     * 包括左斜杆和右斜杆，二维树组的高度是 “树的深度 * 2 - 1”，因为要用左斜杆和右斜杆来隔开树中的每一层；假设树的深度
-     * 是n，树中最后一层的元素的个数是 2^(n-1)，依据这个原理，设置二维数组的宽度是 (2^(n-1) - 1) * 2，表示同一层每一
-     * 个元素用2个空格隔开；使用右斜杆来表示父节点和左子结点之间的联系，右斜杆位于父节点的下一层，并且向左移一个空格，
-     * 使用左斜杆来表示父节点和右子节点之间的联系，左斜杆位于父节点的下一层，并且向右移一个空格。
+     *    打印树的图形结构。
      */
     public void printTree(){
         // 判断根节点是否为空
@@ -519,13 +515,13 @@ public class RBTree<K extends Comparable<K>, V> {
         // 先将当前节点保存到二维数组中
         res[rowIndex][columnIndex] = curNode.getKey() + "-" + (curNode.isColor() ? "R" : "B") + "";
 
-        // 对左儿子进行判断，若有左儿子，则记录相应的"/"与左儿子的值
+        // 对左儿子进行判断，若有左儿子，则记录相应的左儿子的值
         if (curNode.getLeft() != null) {
             writeArray(curNode.getLeft(), rowIndex + 1
                     , columnIndex - gap, res, treeDepth);
         }
 
-        // 对右儿子进行判断，若有右儿子，则记录相应的"\"与右儿子的值
+        // 对右儿子进行判断，若有右儿子，则记录相应的右儿子的值
         if (curNode.getRight() != null) {
             writeArray(curNode.getRight(), rowIndex + 1
                     , columnIndex + gap, res, treeDepth);
@@ -536,108 +532,6 @@ public class RBTree<K extends Comparable<K>, V> {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*
-
-    // 按照树的树形结构打印树
-    public void show() {
-        if (root == null) {
-            System.out.println("EMPTY!");
-            return;
-        }
-        // 得到树的深度
-        int treeDepth = getTreeDepth(root);
-        System.out.println("treeDepth = " + treeDepth);
-        // 最后一行的宽度为2的(n - 1)次方乘3，再加1作为整个二维数组的宽度
-        int arrayHeight = treeDepth * 2 - 1;
-        System.out.println("arrayHeight = " + arrayHeight);
-        int arrayWidth = (2 << (treeDepth - 2)) * 3 + 1;
-        System.out.println("arrayWidth = " + arrayWidth);
-        // 用一个字符串数组来存储每个位置应显示的元素
-        String[][] res = new String[arrayHeight][arrayWidth];
-        // 对数组进行初始化，默认为一个空格
-        for (int i = 0; i < arrayHeight; i ++) {
-            for (int j = 0; j < arrayWidth; j ++) {
-                res[i][j] = " ";
-            }
-        }
-
-        // 从根节点开始，递归处理整个树
-        // res[0][(arrayWidth + 1)/ 2] = (char)(root.val + '0');
-        writeArray(root, 0, arrayWidth/ 2, res, treeDepth);
-        // 此时，已经将所有需要显示的元素储存到了二维数组中，将其拼接并打印即
-        for (String[] line: res) {
-            StringBuilder sb = new StringBuilder();
-            for (int i = 0; i < line.length; i ++) {
-                sb.append(line[i]);
-                if (line[i].length() > 1 && i <= line.length - 1) {
-                    i += line[i].length() > 4 ? 2: line[i].length() - 1;
-                }
-            }
-            System.out.println(sb.toString());
-        }
-    }*
-
-    private void writeArray(Node curNode, int rowIndex, int columnIndex, String[][] res, int treeDepth) {
-        // 保证输入的树不为空
-        if (curNode == null) return;
-        // 先将当前节点保存到二维数组中
-        res[rowIndex][columnIndex] = String.valueOf(curNode.getKey()+"-"+(curNode.isColor()? "R":"B")+"");
-        System.out.println("------------------");
-        for (String[] re : res) {
-            for (String s : re) {
-                System.out.print(s);
-            }
-            System.out.println();
-        }
-        System.out.println("===================");
-        // 计算当前位于树的第几层
-        int currLevel = ((rowIndex + 1) / 2);
-        System.out.println("currLevel = " + currLevel);
-        // 若到了最后一层，则返回
-        if (currLevel == treeDepth) return;
-        // 计算当前行到下一行，每个元素之间的间隔(下一行的列索引与当前元素的列索引之间的间隔)
-        int gap = treeDepth - currLevel - 1;
-        System.out.println("gap = " + gap);
-        // 对左儿子进行判断，若有左儿子，则记录相应的"/"与左儿子的值
-        if (curNode.getLeft() != null) {
-            res[rowIndex + 1][columnIndex -  ] = "/";
-            writeArray(curNode.getLeft(), rowIndex + 2
-                    , columnIndex - gap * 2, res, treeDepth);
-        }
-
-        // 对右儿子进行判断，若有右儿子，则记录相应的"\"与右儿子的值
-        if (curNode.getRight() != null) {
-            res[rowIndex + 1][columnIndex + gap] = "\\";
-            writeArray(curNode.getRight(), rowIndex + 2
-                    , columnIndex + gap * 2, res, treeDepth);
-        }
-    }
-
-
-
-
- */
 
     @Override
     public String toString() {
