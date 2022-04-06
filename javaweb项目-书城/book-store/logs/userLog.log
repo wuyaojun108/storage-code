@@ -1,0 +1,405 @@
+INFO 0 http-bio-8080-exec-1 2022-03-28 15:26:46,692 {dataSource-1} inited 
+INFO 13867 http-bio-8080-exec-7 2022-03-28 15:27:00,559 user19: 调用isUsernameExists方法，判断用户名是否存在 
+INFO 17609 http-bio-8080-exec-8 2022-03-28 15:27:04,301 user20: 调用isUsernameExists方法，判断用户名是否存在 
+INFO 37263 http-bio-8080-exec-9 2022-03-28 15:27:23,955 user20 注册成功 
+INFO 66215 http-bio-8080-exec-10 2022-03-28 15:27:52,907 user20 登录成功 
+INFO 70463 http-bio-8080-exec-10 2022-03-28 15:27:57,155 user20 退出登录 
+INFO 83974 http-bio-8080-exec-7 2022-03-28 15:28:10,666 user10 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-28 15:31:34,021 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-1 2022-03-28 15:34:27,640 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-1 2022-03-28 15:35:37,507 {dataSource-1} inited 
+INFO 78623 http-bio-8080-exec-6 2022-03-28 15:36:56,130 user10 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-28 15:44:08,871 {dataSource-1} inited 
+INFO 23613 http-bio-8080-exec-7 2022-03-28 15:44:32,484 wuyaojun 登录成功 
+INFO 25246 http-bio-8080-exec-9 2022-03-28 15:44:34,117 wuyaojun将怎样拐跑别人的媳妇添加到购物车中 
+INFO 26076 http-bio-8080-exec-10 2022-03-28 15:44:34,947 wuyaojun将怎样拐跑别人的媳妇添加到购物车中 
+INFO 0 http-bio-8080-exec-1 2022-03-28 15:45:34,606 {dataSource-1} inited 
+INFO 23337 http-bio-8080-exec-8 2022-03-28 15:45:57,943 wuyaojun 登录成功 
+INFO 25185 http-bio-8080-exec-10 2022-03-28 15:45:59,791 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 25720 http-bio-8080-exec-10 2022-03-28 15:46:00,326 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 26424 http-bio-8080-exec-10 2022-03-28 15:46:01,030 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 26603 http-bio-8080-exec-10 2022-03-28 15:46:01,209 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 29964 http-bio-8080-exec-10 2022-03-28 15:46:04,570 wuyaojun 清空了他的购物车 
+INFO 0 http-bio-8080-exec-1 2022-03-28 15:49:10,644 {dataSource-1} inited 
+INFO 10614 http-bio-8080-exec-10 2022-03-28 15:49:21,258 wuyaojun 登录成功 
+INFO 12642 http-bio-8080-exec-10 2022-03-28 15:49:23,286 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 16709 http-bio-8080-exec-10 2022-03-28 15:49:27,353 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 16911 http-bio-8080-exec-10 2022-03-28 15:49:27,555 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 31141 http-bio-8080-exec-10 2022-03-28 15:49:41,785 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 31338 http-bio-8080-exec-10 2022-03-28 15:49:41,982 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 174283 http-bio-8080-exec-5 2022-03-28 15:52:04,927 wuyaojun 清空了他的购物车 
+INFO 177653 http-bio-8080-exec-5 2022-03-28 15:52:08,297 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 179950 http-bio-8080-exec-5 2022-03-28 15:52:10,594 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 181350 http-bio-8080-exec-5 2022-03-28 15:52:11,994 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 182395 http-bio-8080-exec-5 2022-03-28 15:52:13,039 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 185321 http-bio-8080-exec-5 2022-03-28 15:52:15,965 wuyaojun 清空了他的购物车 
+INFO 0 http-bio-8080-exec-1 2022-03-28 15:54:19,115 {dataSource-1} inited 
+INFO 3849 http-bio-8080-exec-4 2022-03-28 15:54:22,964 wuyaojun 登录成功 
+INFO 5884 http-bio-8080-exec-6 2022-03-28 15:54:24,999 null 退出登录 
+INFO 0 http-bio-8080-exec-1 2022-03-28 15:55:10,704 {dataSource-1} inited 
+INFO 3086 http-bio-8080-exec-4 2022-03-28 15:55:13,790 wuyaojun 登录成功 
+INFO 4498 http-bio-8080-exec-6 2022-03-28 15:55:15,202 wuyaojun 退出登录 
+INFO 16108 http-bio-8080-exec-9 2022-03-28 15:55:26,812 wuyaojun 登录成功 
+INFO 24612 http-bio-8080-exec-2 2022-03-28 15:55:35,316 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 26215 http-bio-8080-exec-2 2022-03-28 15:55:36,919 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 26971 http-bio-8080-exec-2 2022-03-28 15:55:37,675 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 27598 http-bio-8080-exec-2 2022-03-28 15:55:38,302 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 28286 http-bio-8080-exec-2 2022-03-28 15:55:38,990 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 1132373 http-bio-8080-exec-6 2022-03-28 16:14:03,077 wuyaojun 清空了他的购物车 
+INFO 1334877 http-bio-8080-exec-10 2022-03-28 16:17:25,581 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 1336063 http-bio-8080-exec-10 2022-03-28 16:17:26,767 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 1336706 http-bio-8080-exec-10 2022-03-28 16:17:27,410 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 1336889 http-bio-8080-exec-10 2022-03-28 16:17:27,593 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 1999180 http-bio-8080-exec-5 2022-03-28 16:28:29,884 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 2006930 http-bio-8080-exec-5 2022-03-28 16:28:37,634 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 2009637 http-bio-8080-exec-5 2022-03-28 16:28:40,341 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 2011716 http-bio-8080-exec-5 2022-03-28 16:28:42,420 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 2148454 http-bio-8080-exec-10 2022-03-28 16:30:59,158 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 2159056 http-bio-8080-exec-10 2022-03-28 16:31:09,760 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 2169603 http-bio-8080-exec-10 2022-03-28 16:31:20,307 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 2187239 http-bio-8080-exec-10 2022-03-28 16:31:37,943 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 2188456 http-bio-8080-exec-10 2022-03-28 16:31:39,160 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 2190425 http-bio-8080-exec-10 2022-03-28 16:31:41,129 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 2191243 http-bio-8080-exec-10 2022-03-28 16:31:41,947 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 2192291 http-bio-8080-exec-10 2022-03-28 16:31:42,995 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 2192848 http-bio-8080-exec-10 2022-03-28 16:31:43,552 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 2193615 http-bio-8080-exec-10 2022-03-28 16:31:44,319 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 2197740 http-bio-8080-exec-10 2022-03-28 16:31:48,444 wuyaojun 清空了他的购物车 
+INFO 2225776 http-bio-8080-exec-6 2022-03-28 16:32:16,480 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 2225970 http-bio-8080-exec-6 2022-03-28 16:32:16,674 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 2242394 http-bio-8080-exec-1 2022-03-28 16:32:33,098 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 2243427 http-bio-8080-exec-1 2022-03-28 16:32:34,131 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 2250770 http-bio-8080-exec-1 2022-03-28 16:32:41,474 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 2251522 http-bio-8080-exec-1 2022-03-28 16:32:42,226 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 2371336 http-bio-8080-exec-2 2022-03-28 16:34:42,040 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 0 http-bio-8080-exec-1 2022-03-28 16:38:19,547 {dataSource-1} inited 
+INFO 46794 http-bio-8080-exec-10 2022-03-28 16:39:06,341 wuyaojun 登录成功 
+INFO 48830 http-bio-8080-exec-10 2022-03-28 16:39:08,377 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 50229 http-bio-8080-exec-10 2022-03-28 16:39:09,776 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 51094 http-bio-8080-exec-10 2022-03-28 16:39:10,641 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 51960 http-bio-8080-exec-10 2022-03-28 16:39:11,507 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 62904 http-bio-8080-exec-10 2022-03-28 16:39:22,451 wuyaojun将 水浒传 添加到购物车中 
+INFO 63866 http-bio-8080-exec-10 2022-03-28 16:39:23,413 wuyaojun将 水浒传 添加到购物车中 
+INFO 75220 http-bio-8080-exec-10 2022-03-28 16:39:34,767 wuyaojun 清空了他的购物车 
+INFO 317536 http-bio-8080-exec-1 2022-03-28 16:43:37,083 wuyaojun将 操作系统原理 添加到购物车中 
+INFO 318494 http-bio-8080-exec-1 2022-03-28 16:43:38,041 wuyaojun将 操作系统原理 添加到购物车中 
+INFO 319313 http-bio-8080-exec-1 2022-03-28 16:43:38,860 wuyaojun将 数据结构 java版 添加到购物车中 
+INFO 321309 http-bio-8080-exec-1 2022-03-28 16:43:40,856 wuyaojun 清空了他的购物车 
+INFO 331064 http-bio-8080-exec-1 2022-03-28 16:43:50,611 wuyaojun将 操作系统原理 添加到购物车中 
+INFO 340849 http-bio-8080-exec-4 2022-03-28 16:44:00,396 wuyaojun 清空了他的购物车 
+INFO 356463 http-bio-8080-exec-4 2022-03-28 16:44:16,010 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 358735 http-bio-8080-exec-4 2022-03-28 16:44:18,282 wuyaojun 清空了他的购物车 
+INFO 682446 http-bio-8080-exec-9 2022-03-28 16:49:41,993 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 683787 http-bio-8080-exec-9 2022-03-28 16:49:43,334 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 684031 http-bio-8080-exec-9 2022-03-28 16:49:43,578 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 686118 http-bio-8080-exec-9 2022-03-28 16:49:45,665 wuyaojun 清空了他的购物车 
+INFO 869901 http-bio-8080-exec-6 2022-03-28 16:52:49,448 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 871087 http-bio-8080-exec-6 2022-03-28 16:52:50,634 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 871542 http-bio-8080-exec-6 2022-03-28 16:52:51,089 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 872370 http-bio-8080-exec-6 2022-03-28 16:52:51,917 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 1024543 http-bio-8080-exec-8 2022-03-28 16:55:24,090 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 1025716 http-bio-8080-exec-8 2022-03-28 16:55:25,263 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 1028149 http-bio-8080-exec-8 2022-03-28 16:55:27,696 wuyaojun 清空了他的购物车 
+INFO 1037755 http-bio-8080-exec-1 2022-03-28 16:55:37,302 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 1038614 http-bio-8080-exec-1 2022-03-28 16:55:38,161 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 1041877 http-bio-8080-exec-1 2022-03-28 16:55:41,424 wuyaojun将 javaScript高级编程 添加到购物车中 
+INFO 1046637 http-bio-8080-exec-1 2022-03-28 16:55:46,184 wuyaojun 清空了他的购物车 
+INFO 7868437 http-bio-8080-exec-4 2022-03-28 18:49:27,984 wuyaojun 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-28 18:50:30,229 {dataSource-1} inited 
+INFO 5597 http-bio-8080-exec-4 2022-03-28 18:50:35,826 wuyaojun 登录成功 
+INFO 48846 http-bio-8080-exec-8 2022-03-28 18:51:19,075 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 51441 http-bio-8080-exec-10 2022-03-28 18:51:21,670 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 54393 http-bio-8080-exec-10 2022-03-28 18:51:24,622 wuyaojun 清空了他的购物车 
+INFO 64240 http-bio-8080-exec-10 2022-03-28 18:51:34,469 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 65055 http-bio-8080-exec-10 2022-03-28 18:51:35,284 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 70002 http-bio-8080-exec-10 2022-03-28 18:51:40,231 wuyaojun 修改了购物车中 73 的数量为 2 
+INFO 252278 http-bio-8080-exec-9 2022-03-28 18:54:42,507 wuyaojun 退出登录 
+INFO 0 http-bio-8080-exec-1 2022-03-28 18:55:40,947 {dataSource-1} inited 
+INFO 16250 http-bio-8080-exec-10 2022-03-28 18:55:57,197 wuyaojun 登录成功 
+INFO 18314 http-bio-8080-exec-10 2022-03-28 18:55:59,261 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 20557 http-bio-8080-exec-4 2022-03-28 18:56:01,504 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 22426 http-bio-8080-exec-4 2022-03-28 18:56:03,373 wuyaojun 退出登录 
+INFO 0 http-bio-8080-exec-1 2022-03-28 18:56:53,650 {dataSource-1} inited 
+INFO 2838 http-bio-8080-exec-4 2022-03-28 18:56:56,488 wuyaojun 登录成功 
+INFO 4498 http-bio-8080-exec-6 2022-03-28 18:56:58,148 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 5227 http-bio-8080-exec-8 2022-03-28 18:56:58,877 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 5652 http-bio-8080-exec-10 2022-03-28 18:56:59,302 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 7264 http-bio-8080-exec-10 2022-03-28 18:57:00,914 wuyaojun 退出登录 
+INFO 142279 http-bio-8080-exec-9 2022-03-28 18:59:15,929 wuyaojun 登录成功 
+INFO 143844 http-bio-8080-exec-9 2022-03-28 18:59:17,494 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 144918 http-bio-8080-exec-9 2022-03-28 18:59:18,568 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 145878 http-bio-8080-exec-9 2022-03-28 18:59:19,528 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 146089 http-bio-8080-exec-9 2022-03-28 18:59:19,739 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 236999 http-bio-8080-exec-4 2022-03-28 19:00:50,649 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 238071 http-bio-8080-exec-4 2022-03-28 19:00:51,721 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 275262 http-bio-8080-exec-7 2022-03-28 19:01:28,912 wuyaojun 退出登录 
+INFO 279829 http-bio-8080-exec-7 2022-03-28 19:01:33,479 wuyaojun 登录成功 
+INFO 829442 http-bio-8080-exec-2 2022-03-28 19:10:43,092 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 830412 http-bio-8080-exec-3 2022-03-28 19:10:44,062 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 830692 http-bio-8080-exec-3 2022-03-28 19:10:44,342 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 0 http-bio-8080-exec-1 2022-03-28 19:14:19,584 {dataSource-1} inited 
+INFO 3299 http-bio-8080-exec-4 2022-03-28 19:14:22,883 wuyaojun 登录成功 
+INFO 19196 http-bio-8080-exec-10 2022-03-28 19:14:38,780 wuyaojun 登录成功 
+INFO 22512 http-bio-8080-exec-10 2022-03-28 19:14:42,096 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 23692 http-bio-8080-exec-10 2022-03-28 19:14:43,276 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 24597 http-bio-8080-exec-10 2022-03-28 19:14:44,181 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 178862 http-bio-8080-exec-4 2022-03-28 19:17:18,446 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 179982 http-bio-8080-exec-4 2022-03-28 19:17:19,566 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 180864 http-bio-8080-exec-4 2022-03-28 19:17:20,448 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 181416 http-bio-8080-exec-4 2022-03-28 19:17:21,000 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 561167 http-bio-8080-exec-6 2022-03-28 19:23:40,751 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 562486 http-bio-8080-exec-6 2022-03-28 19:23:42,070 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 563646 http-bio-8080-exec-6 2022-03-28 19:23:43,230 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 860934 http-bio-8080-exec-9 2022-03-28 19:28:40,518 wuyaojun 退出登录 
+INFO 0 main 2022-03-28 19:37:05,260 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:38:33,438 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:40:07,865 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:41:02,239 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:42:32,702 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:43:10,461 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:43:15,617 {dataSource-1} inited 
+INFO 1 main 2022-03-28 19:43:24,317 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:43:31,397 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:43:42,976 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:44:23,052 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:44:30,827 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:44:37,587 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:44:44,252 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:47:51,132 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:52:13,086 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:52:46,166 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:52:51,752 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:53:34,042 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:53:49,108 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:53:57,973 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:54:04,187 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:54:11,899 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:54:18,376 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:54:23,631 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:55:08,741 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:55:14,178 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:56:22,597 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:56:47,435 {dataSource-1} inited 
+INFO 0 main 2022-03-28 19:56:58,888 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:02:10,328 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:02:26,027 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:03:25,148 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:03:43,077 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:03:57,515 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:17:43,622 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:25:36,668 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:27:50,927 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:29:10,391 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:31:12,615 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:31:33,002 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:31:41,320 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:32:14,994 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:32:45,852 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:34:08,630 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:38:32,640 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:39:04,761 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:41:12,675 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:50:21,693 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:50:31,733 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:51:15,796 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:51:32,916 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:51:45,669 {dataSource-1} inited 
+INFO 1 main 2022-03-28 20:56:53,635 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:57:28,458 {dataSource-1} inited 
+INFO 0 main 2022-03-28 20:57:37,449 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-1 2022-03-28 21:04:50,470 {dataSource-1} inited 
+INFO 19105 http-bio-8080-exec-3 2022-03-28 21:05:09,575 wuyaojun 登录成功 
+INFO 26530 http-bio-8080-exec-4 2022-03-28 21:05:17,000 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 27500 http-bio-8080-exec-4 2022-03-28 21:05:17,970 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 28401 http-bio-8080-exec-4 2022-03-28 21:05:18,871 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 28964 http-bio-8080-exec-4 2022-03-28 21:05:19,434 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 34553 http-bio-8080-exec-4 2022-03-28 21:05:25,023 wuyaojun 修改了购物车中 75 的数量为 4 
+INFO 50490 http-bio-8080-exec-4 2022-03-28 21:05:40,960 wuyaojun 修改了购物车中 74 的数量为 2 
+INFO 81254 http-bio-8080-exec-4 2022-03-28 21:06:11,724 wuyaojun 修改了购物车中 73 的数量为 3 
+INFO 447840 http-bio-8080-exec-3 2022-03-28 21:12:18,310 wuyaojun 修改了购物车中 73 的数量为 5 
+INFO 575436 http-bio-8080-exec-6 2022-03-28 21:14:25,906 wuyaojun 修改了购物车中 73 的数量为 7 
+INFO 0 http-bio-8080-exec-1 2022-03-28 21:15:33,061 {dataSource-1} inited 
+INFO 11313 http-bio-8080-exec-4 2022-03-28 21:15:44,374 wuyaojun 登录成功 
+INFO 16261 http-bio-8080-exec-9 2022-03-28 21:15:49,322 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 17302 http-bio-8080-exec-10 2022-03-28 21:15:50,363 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 17715 http-bio-8080-exec-4 2022-03-28 21:15:50,776 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 18507 http-bio-8080-exec-4 2022-03-28 21:15:51,568 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 24058 http-bio-8080-exec-4 2022-03-28 21:15:57,119 wuyaojun 修改了购物车中 73 的数量为 4 
+INFO 155630 http-bio-8080-exec-3 2022-03-28 21:18:08,691 wuyaojun 修改了购物车中 73 的数量为 7 
+INFO 0 http-bio-8080-exec-1 2022-03-28 21:19:49,342 {dataSource-1} inited 
+INFO 6454 http-bio-8080-exec-4 2022-03-28 21:19:55,796 wuyaojun 登录成功 
+INFO 7928 http-bio-8080-exec-6 2022-03-28 21:19:57,270 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 9211 http-bio-8080-exec-8 2022-03-28 21:19:58,553 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 10272 http-bio-8080-exec-10 2022-03-28 21:19:59,614 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 10511 http-bio-8080-exec-10 2022-03-28 21:19:59,853 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 17379 http-bio-8080-exec-10 2022-03-28 21:20:06,721 wuyaojun 修改了购物车中 73 的数量为 4 
+INFO 1475895 http-bio-8080-exec-1 2022-03-28 21:44:25,237 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 1477522 http-bio-8080-exec-1 2022-03-28 21:44:26,864 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 1478496 http-bio-8080-exec-1 2022-03-28 21:44:27,838 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 1485781 http-bio-8080-exec-1 2022-03-28 21:44:35,123 wuyaojun 修改了购物车中 73 的数量为 6 
+INFO 1501097 http-bio-8080-exec-1 2022-03-28 21:44:50,439 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 1503078 http-bio-8080-exec-1 2022-03-28 21:44:52,420 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 1539822 http-bio-8080-exec-1 2022-03-28 21:45:29,164 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 1541199 http-bio-8080-exec-1 2022-03-28 21:45:30,541 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 1542046 http-bio-8080-exec-1 2022-03-28 21:45:31,388 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 1547986 http-bio-8080-exec-1 2022-03-28 21:45:37,328 wuyaojun 清空了他的购物车 
+INFO 1552615 http-bio-8080-exec-1 2022-03-28 21:45:41,957 wuyaojun将 Lua语言程序设计 添加到购物车中 
+INFO 1553076 http-bio-8080-exec-1 2022-03-28 21:45:42,418 wuyaojun将 Lua语言程序设计 添加到购物车中 
+INFO 1555931 http-bio-8080-exec-1 2022-03-28 21:45:45,273 wuyaojun 删除了购物车中的 82 
+INFO 1560436 http-bio-8080-exec-1 2022-03-28 21:45:49,778 wuyaojun将 西游记 添加到购物车中 
+INFO 1560671 http-bio-8080-exec-1 2022-03-28 21:45:50,013 wuyaojun将 西游记 添加到购物车中 
+INFO 1657144 http-bio-8080-exec-1 2022-03-28 21:47:26,486 wuyaojun 修改了购物车中 83 的数量为 6 
+INFO 1665269 http-bio-8080-exec-5 2022-03-28 21:47:34,611 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 1665494 http-bio-8080-exec-5 2022-03-28 21:47:34,836 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 1666589 http-bio-8080-exec-5 2022-03-28 21:47:35,931 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 1666787 http-bio-8080-exec-5 2022-03-28 21:47:36,129 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 1863029 http-bio-8080-exec-4 2022-03-28 21:50:52,371 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 1863223 http-bio-8080-exec-4 2022-03-28 21:50:52,565 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 1863896 http-bio-8080-exec-4 2022-03-28 21:50:53,238 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 1864192 http-bio-8080-exec-4 2022-03-28 21:50:53,534 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 1864357 http-bio-8080-exec-4 2022-03-28 21:50:53,699 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 1864954 http-bio-8080-exec-4 2022-03-28 21:50:54,296 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 1865121 http-bio-8080-exec-4 2022-03-28 21:50:54,463 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 1865255 http-bio-8080-exec-4 2022-03-28 21:50:54,597 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 0 http-bio-8080-exec-1 2022-03-28 21:52:29,466 {dataSource-1} inited 
+INFO 2687 http-bio-8080-exec-4 2022-03-28 21:52:32,153 wuyaojun 登录成功 
+INFO 4224 http-bio-8080-exec-6 2022-03-28 21:52:33,690 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 4581 http-bio-8080-exec-8 2022-03-28 21:52:34,047 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 5181 http-bio-8080-exec-10 2022-03-28 21:52:34,647 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 5363 http-bio-8080-exec-10 2022-03-28 21:52:34,829 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 38550781 http-bio-8080-exec-3 2022-03-29 08:35:00,247 wuyaojun 登录成功 
+INFO 38553369 http-bio-8080-exec-3 2022-03-29 08:35:02,835 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 38554869 http-bio-8080-exec-3 2022-03-29 08:35:04,335 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 38555837 http-bio-8080-exec-3 2022-03-29 08:35:05,303 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 38570319 http-bio-8080-exec-3 2022-03-29 08:35:19,785 wuyaojun将 蛋炒饭 添加到购物车中 
+INFO 0 http-bio-8080-exec-1 2022-03-29 08:38:44,745 {dataSource-1} inited 
+INFO 5323 http-bio-8080-exec-4 2022-03-29 08:38:50,068 wuyaojun 登录成功 
+INFO 7071 http-bio-8080-exec-6 2022-03-29 08:38:51,816 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 7809 http-bio-8080-exec-8 2022-03-29 08:38:52,554 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 8558 http-bio-8080-exec-10 2022-03-29 08:38:53,303 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 0 main 2022-03-29 08:44:45,261 {dataSource-1} inited 
+INFO 0 main 2022-03-29 08:49:25,438 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-1 2022-03-29 08:59:00,666 {dataSource-1} inited 
+INFO 3866 http-bio-8080-exec-4 2022-03-29 08:59:04,532 wuyaojun 登录成功 
+INFO 6615 http-bio-8080-exec-6 2022-03-29 08:59:07,281 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 7156 http-bio-8080-exec-8 2022-03-29 08:59:07,822 wuyaojun将 怎样拐跑别人的媳妇 添加到购物车中 
+INFO 7979 http-bio-8080-exec-10 2022-03-29 08:59:08,645 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 8161 http-bio-8080-exec-10 2022-03-29 08:59:08,827 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 0 http-bio-8080-exec-1 2022-03-29 09:00:17,176 {dataSource-1} inited 
+INFO 4562 http-bio-8080-exec-4 2022-03-29 09:00:21,738 wuyaojun 登录成功 
+INFO 6279 http-bio-8080-exec-6 2022-03-29 09:00:23,455 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 6435 http-bio-8080-exec-8 2022-03-29 09:00:23,611 wuyaojun将 木虚肉盖饭 添加到购物车中 
+INFO 7076 http-bio-8080-exec-10 2022-03-29 09:00:24,252 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 7244 http-bio-8080-exec-10 2022-03-29 09:00:24,420 wuyaojun将 C++编程思想 添加到购物车中 
+INFO 0 http-bio-8080-exec-3 2022-03-29 09:12:15,106 {dataSource-1} inited 
+INFO 3041 http-bio-8080-exec-5 2022-03-29 09:12:18,147 wuyaojun 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-29 09:16:19,890 {dataSource-1} inited 
+INFO 3262 http-bio-8080-exec-4 2022-03-29 09:16:23,152 wuyaojun 登录成功 
+INFO 0 main 2022-03-29 09:25:45,268 {dataSource-1} inited 
+INFO 0 main 2022-03-29 09:26:11,408 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-1 2022-03-29 09:48:09,969 {dataSource-1} inited 
+INFO 3300 http-bio-8080-exec-4 2022-03-29 09:48:13,269 wuyaojun 登录成功 
+INFO 144788 http-bio-8080-exec-5 2022-03-29 09:50:34,757 wuyaojun 退出登录 
+INFO 151196 http-bio-8080-exec-5 2022-03-29 09:50:41,165 admin 登录成功 
+INFO 152833 http-bio-8080-exec-5 2022-03-29 09:50:42,802 调用过滤器方法 
+INFO 168940 http-bio-8080-exec-6 2022-03-29 09:50:58,909 调用过滤器方法 
+INFO 235541 http-bio-8080-exec-3 2022-03-29 09:52:05,510 调用过滤器方法 
+INFO 260046 http-bio-8080-exec-3 2022-03-29 09:52:30,015 调用过滤器方法 
+INFO 273862 http-bio-8080-exec-5 2022-03-29 09:52:43,831 调用过滤器方法 
+INFO 350488 http-bio-8080-exec-6 2022-03-29 09:54:00,457 调用过滤器方法 
+INFO 455494 http-bio-8080-exec-2 2022-03-29 09:55:45,463 调用过滤器方法 
+INFO 498387 http-bio-8080-exec-2 2022-03-29 09:56:28,356 调用过滤器方法 
+INFO 517737 http-bio-8080-exec-2 2022-03-29 09:56:47,706 调用过滤器方法 
+INFO 518358 http-bio-8080-exec-2 2022-03-29 09:56:48,327 调用过滤器方法 
+INFO 518516 http-bio-8080-exec-2 2022-03-29 09:56:48,485 调用过滤器方法 
+INFO 518696 http-bio-8080-exec-2 2022-03-29 09:56:48,665 调用过滤器方法 
+INFO 555234 http-bio-8080-exec-2 2022-03-29 09:57:25,203 调用过滤器方法 
+INFO 556619 http-bio-8080-exec-2 2022-03-29 09:57:26,588 调用过滤器方法 
+INFO 559946 http-bio-8080-exec-2 2022-03-29 09:57:29,915 调用过滤器方法 
+INFO 563620 http-bio-8080-exec-2 2022-03-29 09:57:33,589 调用过滤器方法 
+INFO 564752 http-bio-8080-exec-2 2022-03-29 09:57:34,721 调用过滤器方法 
+INFO 576447 http-bio-8080-exec-2 2022-03-29 09:57:46,416 调用过滤器方法 
+INFO 587205 http-bio-8080-exec-2 2022-03-29 09:57:57,174 调用过滤器方法 
+INFO 0 http-bio-8080-exec-1 2022-03-29 10:07:13,465 {dataSource-1} inited 
+INFO 8139 http-bio-8080-exec-4 2022-03-29 10:07:21,604 admin 登录成功 
+INFO 14650 http-bio-8080-exec-6 2022-03-29 10:07:28,115 调用过滤器方法 
+INFO 120857 http-bio-8080-exec-9 2022-03-29 10:09:14,322 调用过滤器方法 
+INFO 455583 http-bio-8080-exec-3 2022-03-29 10:14:49,048 调用过滤器方法 
+INFO 459592 http-bio-8080-exec-3 2022-03-29 10:14:53,057 调用过滤器方法 
+INFO 489984 http-bio-8080-exec-3 2022-03-29 10:15:23,449 调用过滤器方法 
+INFO 493540 http-bio-8080-exec-3 2022-03-29 10:15:27,005 调用过滤器方法 
+INFO 0 http-bio-8080-exec-1 2022-03-29 10:21:55,571 {dataSource-1} inited 
+INFO 6494 http-bio-8080-exec-4 2022-03-29 10:22:02,065 admin 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-29 10:24:32,134 {dataSource-1} inited 
+INFO 9592 http-bio-8080-exec-4 2022-03-29 10:24:41,726 admin 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-29 10:28:54,507 {dataSource-1} inited 
+INFO 6055 http-bio-8080-exec-4 2022-03-29 10:29:00,562 admin 登录成功 
+INFO 1 http-bio-8080-exec-1 2022-03-29 10:51:02,847 {dataSource-1} inited 
+INFO 6530 http-bio-8080-exec-4 2022-03-29 10:51:09,376 admin 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-29 10:58:32,725 {dataSource-1} inited 
+INFO 12061 http-bio-8080-exec-6 2022-03-29 10:58:44,786 admin 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-29 11:59:12,464 {dataSource-1} inited 
+INFO 5840 http-bio-8080-exec-4 2022-03-29 11:59:18,304 admin 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-29 12:07:13,114 {dataSource-1} inited 
+INFO 5834 http-bio-8080-exec-4 2022-03-29 12:07:18,948 admin 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-29 12:14:26,855 {dataSource-1} inited 
+INFO 7228 http-bio-8080-exec-4 2022-03-29 12:14:34,083 admin 登录成功 
+INFO 0 http-bio-8080-exec-5 2022-03-29 12:25:43,736 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-1 2022-03-29 12:39:06,657 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-5 2022-03-29 12:41:06,423 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-3 2022-03-29 12:49:05,343 {dataSource-1} inited 
+INFO 19 http-bio-8080-exec-3 2022-03-29 12:49:05,362 管理员新增图书 百年孤独 
+INFO 0 http-bio-8080-exec-3 2022-03-29 12:52:48,583 {dataSource-1} inited 
+INFO 53290 http-bio-8080-exec-8 2022-03-29 12:53:41,873 管理员新增图书 百年孤独 
+INFO 113228 http-bio-8080-exec-10 2022-03-29 12:54:41,811 admin 登录成功 
+INFO 200240 http-bio-8080-exec-3 2022-03-29 12:56:08,823 管理员新增图书 霍乱时期的爱情 
+INFO 314303 http-bio-8080-exec-9 2022-03-29 12:58:02,886 管理员新增图书 百年孤独 
+INFO 0 http-bio-8080-exec-1 2022-03-29 13:00:57,670 {dataSource-1} inited 
+INFO 7928 http-bio-8080-exec-4 2022-03-29 13:01:05,598 admin 登录成功 
+INFO 0 main 2022-03-29 13:03:29,884 {dataSource-1} inited 
+INFO 0 main 2022-03-29 13:03:47,967 {dataSource-1} inited 
+INFO 0 main 2022-03-29 13:05:27,927 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-1 2022-03-29 13:08:02,820 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-1 2022-03-29 13:11:43,173 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-1 2022-03-29 13:15:46,515 {dataSource-1} inited 
+INFO 17494 http-bio-8080-exec-5 2022-03-29 13:16:04,009 admin 登录成功 
+INFO 34927 http-bio-8080-exec-10 2022-03-29 13:16:21,442 管理员新增图书 百年孤独 
+INFO 0 http-bio-8080-exec-1 2022-03-29 13:18:38,156 {dataSource-1} inited 
+INFO 12062 http-bio-8080-exec-6 2022-03-29 13:18:50,218 admin 登录成功 
+INFO 27733 http-bio-8080-exec-9 2022-03-29 13:19:05,889 管理员新增图书 百年孤独 
+INFO 0 http-bio-8080-exec-1 2022-03-29 13:21:35,911 {dataSource-1} inited 
+INFO 8050 http-bio-8080-exec-4 2022-03-29 13:21:43,961 admin 登录成功 
+INFO 22210 http-bio-8080-exec-10 2022-03-29 13:21:58,121 管理员新增图书 百年孤独 
+INFO 2889625 http-bio-8080-exec-7 2022-03-29 14:09:45,536 admin 登录成功 
+INFO 2907274 http-bio-8080-exec-7 2022-03-29 14:10:03,185 管理员新增图书 霍乱时期的爱情 
+INFO 2977466 http-bio-8080-exec-7 2022-03-29 14:11:13,377 管理员新增图书 Java编程思想 
+INFO 3048514 http-bio-8080-exec-3 2022-03-29 14:12:24,425 管理员新增图书 JavaScript从入门到精通 
+INFO 3166468 http-bio-8080-exec-8 2022-03-29 14:14:22,379 管理员新增图书 马克波罗行记 
+INFO 3208012 http-bio-8080-exec-8 2022-03-29 14:15:03,923 管理员新增图书 王小波全集 
+INFO 3245217 http-bio-8080-exec-8 2022-03-29 14:15:41,128 管理员新增图书 泰戈尔诗集 
+INFO 3292795 http-bio-8080-exec-8 2022-03-29 14:16:28,706 管理员新增图书 华盖集 
+INFO 3376523 http-bio-8080-exec-7 2022-03-29 14:17:52,434 管理员新增图书 瓦尔登湖 
+INFO 0 http-bio-8080-exec-1 2022-03-29 14:20:31,138 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-1 2022-03-29 14:23:43,028 {dataSource-1} inited 
+INFO 61632 http-bio-8080-exec-8 2022-03-29 14:24:44,660 admin 登录成功 
+INFO 69489 http-bio-8080-exec-8 2022-03-29 14:24:52,517 admin 退出登录 
+INFO 79006 http-bio-8080-exec-8 2022-03-29 14:25:02,034 admin 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-29 14:33:02,258 {dataSource-1} inited 
+INFO 5931 http-bio-8080-exec-8 2022-03-29 14:33:08,189 admin 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-29 14:36:42,655 {dataSource-1} inited 
+INFO 6404 http-bio-8080-exec-10 2022-03-29 14:36:49,059 admin 登录成功 
+INFO 0 main 2022-03-29 14:49:26,306 {dataSource-1} inited 
+INFO 0 main 2022-03-29 14:50:12,176 {dataSource-1} inited 
+INFO 0 http-bio-8080-exec-1 2022-03-29 14:53:22,989 {dataSource-1} inited 
+INFO 5979 http-bio-8080-exec-10 2022-03-29 14:53:28,968 admin 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-29 15:03:26,659 {dataSource-1} inited 
+INFO 22092 http-bio-8080-exec-4 2022-03-29 15:03:48,751 wuyaojun 登录成功 
+INFO 30113 http-bio-8080-exec-4 2022-03-29 15:03:56,772 wuyaojun 退出登录 
+INFO 37252 http-bio-8080-exec-4 2022-03-29 15:04:03,911 admin 登录成功 
+INFO 48213 http-bio-8080-exec-4 2022-03-29 15:04:14,872 admin 退出登录 
+INFO 52011 http-bio-8080-exec-4 2022-03-29 15:04:18,670 wuyaojun 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-29 15:04:53,637 {dataSource-1} inited 
+INFO 2702 http-bio-8080-exec-4 2022-03-29 15:04:56,339 wuyaojun 登录成功 
+INFO 0 http-bio-8080-exec-1 2022-03-29 15:06:01,633 {dataSource-1} inited 
+INFO 2509 http-bio-8080-exec-4 2022-03-29 15:06:04,142 wuyaojun 登录成功 
+INFO 85057 http-bio-8080-exec-9 2022-03-29 15:07:26,690 wuyaojun 退出登录 
