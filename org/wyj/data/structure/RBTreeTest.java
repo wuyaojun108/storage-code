@@ -1,7 +1,5 @@
 package org.wyj.data.structure;
 
-import org.wyj.data.structure.RBTree;
-
 import java.util.Scanner;
 
 /**
