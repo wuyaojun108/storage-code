@@ -5,7 +5,7 @@ import org.wyj.data.structure.RBTree;
 import java.util.Scanner;
 
 /**
- * 测试红黑树的功能
+ * 测试红黑树的功能 
  */
 public class RBTreeTest {
 

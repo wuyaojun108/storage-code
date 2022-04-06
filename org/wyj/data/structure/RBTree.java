@@ -3,7 +3,7 @@ package org.wyj.data.structure;
 import java.util.Arrays;
 import java.util.LinkedList;
 
-// 红黑树
+// 红黑树 
 public class RBTree<K extends Comparable<K>, V> {
 
     // 颜色标识
