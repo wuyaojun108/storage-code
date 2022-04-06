@@ -25,6 +25,9 @@ public class RBTreeTest {
                 System.out.println("请输入要删除的键：");
                 String key = scanner.next();
                 delEle(tree, Integer.parseInt(key));
+            } else if("exit".equals(str)){
+                scanner.close();
+                System.exit(0);
             }
         }
     }
@@ -40,5 +43,6 @@ public class RBTreeTest {
         tree.add(key, value);
         tree.printTree();
     }
+
 
 }
